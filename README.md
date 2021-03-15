@@ -7,7 +7,7 @@ Laarzae Studios is a charity game company, donating to charities chosen by contr
   - 🌱 Currently working on the release for #Project-Mage, a 2D Pixel RPG game for PC
   - 📫 Reach our team via [LinkedIn](https://www.linkedin.com/in/laarzaestudios) or email: laarzaerstudios@gmail.com
 
-# 🔧 Technology and Tools
+## 🔧 Technology and Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=black&color=082F60)    ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=082F60)    
 
@@ -16,8 +16,6 @@ Laarzae Studios is a charity game company, donating to charities chosen by contr
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9081AC) ![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=9081AC) ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=9081AC)![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=insomnia&logoColor=white&color=9081AC)![](https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=insomnia&logoColor=white&color=9081AC)![](https://img.shields.io/badge/Tools-Invision-informational?style=flat&logo=insomnia&logoColor=white&color=9081AC)
 
-
-# Dependencies
 
 ## Meet the Software Sages
 - Randy Egan
