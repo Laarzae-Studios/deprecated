@@ -23,7 +23,7 @@ Laarzae Studios is a charity game company, donating to charities chosen by contr
 - Tim Mitzen
 - Ben Soltz
 - Nick Watson
-- Tawnya
+- Tawnya Wessar
 
 ## Installation
 
