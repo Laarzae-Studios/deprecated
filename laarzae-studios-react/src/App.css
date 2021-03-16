@@ -3,19 +3,17 @@
 body {
 	width: 100vw;
 	height: 100vh;
-	background: rgb(20, 10, 43);
+	background: rgb(12, 42, 20);
 	background: linear-gradient(
 		0deg,
-		rgba(20, 10, 43, 1) 0%,
-		rgba(19, 52, 19, 1) 0%,
-		rgba(28, 43, 28, 1) 4%,
-		rgba(30, 34, 46, 1) 8%,
-		rgba(36, 18, 62, 1) 20%,
-		rgba(5, 9, 54, 1) 33%,
-		rgba(22, 16, 55, 1) 45%,
-		rgba(1, 3, 19, 1) 74%,
-		rgba(6, 6, 6, 1) 87%,
-		rgba(30, 34, 46, 1) 100%
+		rgba(12, 42, 20, 1) 0%,
+		rgba(10, 50, 15, 1) 5%,
+		rgba(4, 18, 62, 1) 25%,
+		rgba(11, 9, 56, 1) 32%,
+		rgba(27, 10, 55, 1) 42%,
+		rgba(43, 10, 62, 1) 54%,
+		rgba(0, 0, 0, 1) 92%,
+		rgba(0, 0, 0, 1) 100%
 	);
 	color: #49e59c;
 	font-family: 'Kalam', cursive;
@@ -35,4 +33,19 @@ h6 {
 
 .header {
 	background-color: black;
+	display: flex;
+}
+
+nav {
+	width: 80%;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+a {
+	text-decoration: none;
+	color: #49e59c;
+	margin: 0 2%;
+	font-size: 1.5rem;
 }

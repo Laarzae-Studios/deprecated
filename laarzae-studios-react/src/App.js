@@ -11,7 +11,7 @@ function App() {
       <Link to="/register">Sign Up</Link> 
       <Link to="/login" onClick={() => {localStorage.clear()}>Log Out</Link>*/}
 			<Header />
-			<h1> Hello, world! </h1>
+			{/* <h1> Hello, world! </h1> */}
 		</div>
 	);
 }
