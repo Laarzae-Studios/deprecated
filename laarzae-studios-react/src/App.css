@@ -2,7 +2,7 @@
 
 body {
 	width: 100vw;
-	height: 100vh;
+	height: 100%;
 	background: rgb(12, 42, 20);
 	background: linear-gradient(
 		0deg,
@@ -54,6 +54,7 @@ a {
 .meet-container,
 .home-container {
 	text-align: center;
+	height: 100%;
 }
 
 .meet-the-team {

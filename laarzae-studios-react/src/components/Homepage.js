@@ -37,4 +37,8 @@ const Homepage = () => {
 	);
 };
 
+// !! This page will be home to our blog - once backend has been implemented
+// !! I will set up the forms to house the blog entries.  Until then, we can
+// !! make manual entries.
+
 export default Homepage;
