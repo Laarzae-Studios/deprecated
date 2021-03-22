@@ -28,12 +28,11 @@ const MeetTheTeam = () => {
 				.catch((err) =>
 					console.error('users not found', err.message)
 				);
+			setState(ourTeam);
 		});
 		// ?? Set ourTeam array to state
 		console.log('ourTeam array =====> ', ourTeam);
-		setState(ourTeam);
-
-		// console.log('state - inside useEffect =====> ', state);
+		console.log('state - inside useEffect =====> ', state);
 	}, []);
 
 	console.log('state - outside useEffect =====> ', state);
