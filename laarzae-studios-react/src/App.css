@@ -51,7 +51,8 @@ a {
 	font-size: 1.5rem;
 }
 
-.meet-container {
+.meet-container,
+.home-container {
 	text-align: center;
 }
 
@@ -60,7 +61,8 @@ a {
 	flex-flow: row wrap;
 }
 
-.user-img-info {
+.user-img-info,
+.home-body {
 	color: black;
 	width: 47%;
 	border: 1px solid #e4a503;
@@ -74,9 +76,17 @@ a {
 		rgba(0, 0, 0, 1) 75%,
 		rgba(229, 166, 2, 1) 100%
 	);
-
 	margin: 0.5% 1%;
 	display: flex;
+}
+
+.home-body {
+	width: 90%;
+	height: 70vh;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .user-img-container {
@@ -97,7 +107,7 @@ a {
 	width: 100%;
 	border-radius: 9%;
 	margin-bottom: 3%;
-	border: 2px solid #1e082c;
+	border: 2px solid rgb(56, 15, 83);
 }
 
 .user-info {
@@ -110,11 +120,14 @@ a {
 }
 
 .user-name {
-	font-size: 1.5rem;
+	font-size: 1.75rem;
+	font-weight: bold;
+	color: rgb(56, 15, 83);
 }
 
-.user-quote {
-	border: 2px solid #1e082c;
+.user-quote,
+.home-wall-o-text {
+	border: 2px solid rgb(56, 15, 83);
 	color: #49e59c;
 	background: rgb(105, 15, 163);
 	background: linear-gradient(
@@ -129,4 +142,14 @@ a {
 	width: 90%;
 	height: 70%;
 	margin-bottom: 4%;
+	padding: 5% 0;
+	font-size: 1.5rem;
+}
+
+.home-wall-o-text {
+	margin-bottom: 0;
+}
+
+.title {
+	padding: 2% 0;
 }

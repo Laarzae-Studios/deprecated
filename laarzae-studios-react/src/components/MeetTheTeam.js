@@ -35,8 +35,9 @@ const MeetTheTeam = () => {
 
 	return (
 		<div className="meet-container">
-			<h2>Meet The Team!</h2>
-
+			<div className="title">
+				<h1>Meet The Team!</h1>
+			</div>
 			<div className="meet-the-team">
 				{state.map((user) => {
 					return (
@@ -55,7 +56,7 @@ const MeetTheTeam = () => {
 									{user.name}
 								</div>
 								<div className="user-quote">
-									Placeholder Text
+									{user.bio}
 								</div>
 							</div>
 						</div>
