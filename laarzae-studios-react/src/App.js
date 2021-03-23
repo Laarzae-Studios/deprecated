@@ -4,6 +4,7 @@ import { Route, Switch, Link, Redirect } from 'react-router-dom';
 import Header from './components/Header';
 import MeetTheTeam from './components/MeetTheTeam';
 import Homepage from './components/Homepage';
+import Footer from './components/Footer';
 
 function App() {
 	return (
@@ -17,6 +18,7 @@ function App() {
 					<MeetTheTeam />
 				</Route>
 			</Switch>
+			<Footer />
 		</div>
 	);
 }
