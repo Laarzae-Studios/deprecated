@@ -7,7 +7,7 @@ const Footer = () => {
 				<a href="https://www.linkedin.com/in/LaarzaeStudios/">
 					<i class="fa fa-linkedin fa-3x" aria-hidden="true" />
 				</a>
-				<a href="https://www.LaarzaeStudios@gmail.com">
+				<a href="mailto:LaarzaeStudios@gmail.com">
 					<i class="fa fa-envelope fa-3x" aria-hidden="true" />
 				</a>
 				<a href="https://www.facebook.com/LaarzaeStudios">

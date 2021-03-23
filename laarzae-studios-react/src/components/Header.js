@@ -12,6 +12,7 @@ const Header = () => {
 				<Link to="/games">Games</Link>
 				<Link to="/login">Log In</Link>
 				<Link to="/register">Sign Up</Link>
+				<Link to="/forums">Forums</Link>
 			</nav>
 		</div>
 	);
