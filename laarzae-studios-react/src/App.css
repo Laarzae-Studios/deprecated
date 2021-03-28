@@ -145,6 +145,20 @@ a {
 	margin-bottom: 4%;
 	padding: 5% 0;
 	font-size: 1.5rem;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.home-wall-o-text::-webkit-scrollbar{
+    width: .66rem;
+}
+.home-wall-o-text::-webkit-scrollbar-track{
+    border-radius: 4px;
+}
+.home-wall-o-text::-webkit-scrollbar-thumb{
+    border-radius: 4px;
+    background-color: rgba(229, 166, 2, 1);
+
 }
 
 .home-wall-o-text {
