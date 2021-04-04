@@ -1,0 +1,27 @@
+.home-info span {
+    display: block;
+    margin: 50px;
+}
+
+.home-info span:first-child {
+    margin-top: 0;
+}
+
+.home-info > * {
+    margin-bottom: 0;
+}
+
+.home-info {
+    margin-bottom: 0;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #444;
+    font-size: 1.2rem;
+}
+
+.home-container-clean {
+    /*border: 1px solid white;*/
+    padding: 0 100px 100px;
+    text-align: center;
+    height: 89vh;/*this height was set manually to accommodate the header, might want to specify site standards*/
+}
